@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GameThing</string>
+
+    <string name="start">Start Button</string>
+
+    <string name="title">Title Of Game</string>
+
+    <string name="gameover">Game Over Block</string>
+
+</resources>
